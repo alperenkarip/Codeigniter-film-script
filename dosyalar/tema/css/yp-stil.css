@@ -1,0 +1,290 @@
+	body {margin: auto;font:12px Arial;background:#f9f9f9;}
+	p,h1,h2,h3,h4,h5,ul,li,a {text-decoration:none;list-style-type:none;padding:0px;margin:0px;}
+	table {border-spacing:0; border:none;}
+input[type="text"]{
+	color:#333;
+    padding: 5px;   
+    border: 1px solid #DDDDDD;
+    background: -moz-linear-gradient(center top , #FFFFFF,  #EEEEEE 1px, #FFFFFF 20px);    
+    background: -webkit-gradient(linear, left top, left 20, from(#FFFFFF), color-stop(5%, #EEEEEE) to(#FFFFFF));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FBFBFB', endColorstr='#FFFFFF');
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 0 0 2px #DDDDDD;
+    -webkit-box-shadow: 0 0 2px #DDDDDD;
+    box-shadow: 0 0 2px #DDDDDD;
+}
+input[type="text"]:hover
+{
+    border:1px solid #cccccc;
+}
+input[type="text"]:focus
+{
+    box-shadow:0 0 2px #FFFE00;
+}
+textarea{
+	resize:none;
+	color:#333;
+	width:100%;
+    padding: 5px;   
+    border: 1px solid #DDDDDD;
+    background: -moz-linear-gradient(center top , #FFFFFF,  #EEEEEE 1px, #FFFFFF 20px);    
+    background: -webkit-gradient(linear, left top, left 20, from(#FFFFFF), color-stop(5%, #EEEEEE) to(#FFFFFF));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FBFBFB', endColorstr='#FFFFFF');
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 0 0 2px #DDDDDD;
+    -webkit-box-shadow: 0 0 2px #DDDDDD;
+    box-shadow: 0 0 2px #DDDDDD;
+}
+textarea:hover
+{
+    border:1px solid #cccccc;
+}
+textarea:focus
+{
+    box-shadow:0 0 2px #FFFE00;
+}	.ibilgi {padding:0px 5px;background:#eee;margin:2px;border:1px solid #ddd;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
+/* Bilgi mesajları */
+
+.dialog h1 {
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0px;
+	padding:8px 0px 0px 0px;
+}
+.dialog p {
+	margin: 0px;
+	font-size:12px;
+}
+#center {
+	width: 360px;
+	margin: 90px auto 0px auto;
+}
+
+.dialog {
+	height: 60px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	margin-bottom: 20px;
+	color:#ffffff;
+
+}
+.dialog .icon {
+	width: 34px;
+	height: 34px;
+	display: block;
+	margin: 12px 14px 0px 14px;
+	float:left;
+}
+.close {
+	display:block;
+	height:14px;
+	width:14px;
+	background:transparent url('../resimler/close.png') no-repeat;
+	position:relative;
+	float:right;
+	margin:5px 5px 0px 0px;
+	cursor:pointer;
+}
+.success {
+	background-color: #7f8f19;
+	background-image: -moz-linear-gradient(top, #93A11F 0%, #6E8114 100%);
+	background-image: linear-gradient(top, #93A11F 0%, #6E8114 100%);
+	background-image: -o-linear-gradient(top, #93A11F 0%, #6E8114 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #93A11F), color-stop(1, #6E8114));
+	background-image: -webkit-linear-gradient(top, #93A11F 0%, #6E8114 100%);
+	background-image: -ms-linear-gradient(top, #93A11F 0%, #6E8114 100%);
+	border-top: 1px solid #b9c22a;
+}
+.success .icon {
+	background: transparent url('../resimler/success.png') no-repeat;
+}
+
+.info {
+	background-color: #ffc800;
+	background-image: -moz-linear-gradient(top, #ffcc00 0%, #ffb500 100%);
+	background-image: linear-gradient(top, #ffcc00 0%, #ffb500 100%);
+	background-image: -o-linear-gradient(top, #ffcc00 0%, #ffb500 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #ffcc00), color-stop(1, #ffb500));
+	background-image: -webkit-linear-gradient(top, #ffcc00 0%, #ffb500 100%);
+	background-image: -ms-linear-gradient(top, #ffcc00 0%, #ffb500 100%);
+	border-top: 1px solid #ffe300;
+	color:#dd220d;
+}
+.info .icon {
+	background: transparent url('../resimler/info.png') no-repeat;
+}
+.info p {
+	color:#000000;
+}
+.warning {
+	background-color: #d61c0b;
+	background-image: -moz-linear-gradient(top, #dc220d 0%, #d01609 100%);
+	background-image: linear-gradient(top, #dc220d 0%, #d01609 100%);
+	background-image: -o-linear-gradient(top, #dc220d 0%, #d01609 100%);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #dc220d), color-stop(1, #d01609));
+	background-image: -webkit-linear-gradient(top, #dc220d 0%, #d01609 100%);
+	background-image: -ms-linear-gradient(top, #dc220d 0%, #d01609 100%);
+	border-top: 1px solid #ee3314;
+}
+.warning .icon {
+	background: transparent url('../resimler/warning.png') no-repeat;
+}
+
+	.form-duzen {width:100%;}
+	.form-duzen .fd-li{float:left;margin:5px 0px;}
+	.form-duzen .fd-li:first-child {color:#555;width:auto;padding:8.5px 5px;}
+	.form-duzen .fd-li:last-child {width:80%;float:right!important;}
+	.form-duzen .fd-li:last-child input{width:98%;}
+	#ust {height:50px;margin-bottom:5px;background:url(../resimler/ust-arka.png) repeat-x;}
+	#usol {margin-left:10px;margin-top:10px;float:left;width:300px;}
+	#usag {float:right;margin-top:10px}
+	#usag ul li {float:left;width:160px;color:#fff;text-shadow: 0.1em 0.1em 0.2em black}
+	#usag ul li img {margin-bottom:-7px;margin-right:5px;}
+	.power {float:right;margin-top:-7px;background:url(../resimler/power.png) no-repeat;display:block;width:42px;height:42px;margin-right:0px;}
+	.power:hover {background:url(../resimler/power_h.png) no-repeat;}
+	.power:active {background:url(../resimler/power_a.png) no-repeat;}
+	#usag ul li font {font-weight:bold;color:#fff;}
+	#sol {width:75px;float:left;}
+	#sol ul li {}
+	#sol ul li a{display:block;height:50px;}
+	#sol #solMenu {border-radius:0px 10px 10px 0px;border:1px solid #cacaca;background:url(../resimler/sol_menu_arka.png) repeat-y;}
+	#sol #solMenu li {margin:5px;position:relative;}
+	#sol #solMenu li font{border:1px solid #ccc;padding: 5px;color: #333;background: #eee;display:none;position: absolute;left: 65px;width: auto;border-radius:10px 0px;}
+	.ypm-sistem {background:url(../resimler/yp_menu-sp.png) no-repeat 0px 0px; width:55px; margin-left:3px;}
+	.ypm-sistem:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -69px 0px; width:55px;}
+	.ypm-sistem:active {background:url(../resimler/yp_menu-sp.png) no-repeat -126px 0px; width:55px;}
+	.ypm-mesaj {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -55px; width:55px; margin-left:3px;}
+	.ypm-mesaj:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -65px -55px; width:55px;}
+	.ypm-mesaj:active {background:url(../resimler/yp_menu-sp.png) no-repeat -117px -55px; width:55px;}
+	.ypm-filmler {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -115px; width:55px; margin-left:6px;}
+	.ypm-filmler:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -71px -115px; width:55px;}
+	.ypm-filmler:active {background:url(../resimler/yp_menu-sp.png) no-repeat -134px -115px; width:55px;}
+	.ypm-etiketler {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -170px; width:55px;}
+	.ypm-etiketler:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -52px -170px; width:55px;}
+	.ypm-etiketler:active {background:url(../resimler/yp_menu-sp.png) no-repeat -103px -170px; width:55px;}
+	.ypm-turler {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -225px; width:55px;}
+	.ypm-turler:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -59px -225px; width:55px;}
+	.ypm-turler:active {background:url(../resimler/yp_menu-sp.png) no-repeat -123px -225px; width:55px;}
+	.ypm-partlar {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -275px; width:55px; margin-left:1px;}
+	.ypm-partlar:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -51px -275px; width:55px;}
+	.ypm-partlar:active {background:url(../resimler/yp_menu-sp.png) no-repeat -106px -275px; width:55px; }
+	.ypm-yorumlar {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -330px; width:50px; margin-left:3px}
+	.ypm-yorumlar:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -50px -330px; width:50px;}
+	.ypm-yorumlar:active {background:url(../resimler/yp_menu-sp.png) no-repeat -108px -330px; width:50px;}
+	.ypm-sayfalar {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -390px; width:50px; margin-left:3px;}
+	.ypm-sayfalar:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -54px -390px; width:50px;}
+	.ypm-sayfalar:active {background:url(../resimler/yp_menu-sp.png) no-repeat -109px -390px; width:50px;}
+	.ypm-takim {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -435px; width:50px; margin-left:3px;}
+	.ypm-takim:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -51px -435px; width:50px;}
+	.ypm-takim:active {background:url(../resimler/yp_menu-sp.png) no-repeat -103px -435px; width:50px;}
+	.ypm-puanlar {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -487px; width:50px; margin-left:3px;}
+	.ypm-puanlar:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -57px -487px; width:50px;}
+	.ypm-puanlar:active {background:url(../resimler/yp_menu-sp.png) no-repeat -114px -487px; width:50px;}
+	.ypm-reklamlar {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -541px; width:52px; margin-left:3px;}
+	.ypm-reklamlar:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -54px -541px; width:52px;}
+	.ypm-reklamlar:active {background:url(../resimler/yp_menu-sp.png) no-repeat -111px -541px; width:50px;}
+	.ypm-zaman {background:url(../resimler/yp_menu-sp.png) no-repeat 0px -599px; width:52px; margin-left:3px;}
+	.ypm-zaman:hover {background:url(../resimler/yp_menu-sp.png) no-repeat -56px -599px; width:52px;}
+	.ypm-zaman:active {background:url(../resimler/yp_menu-sp.png) no-repeat -116px -599px; width:50px;}
+	#veri_bilgi {margin:10px;padding:10px;border:1px solid #cacaca;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;background:url(../resimler/t_baslik.png) repeat-x;}
+	#sag {margin-left:5px;width:88%;float:left;padding:10px 10px;
+	border:1px solid #cacaca;
+	border-radius:0px 0px 10px 10px;
+	background-color:#fff;
+	}
+	#sagUst {border:1px solid #cacaca;background-color:#fff;border-radius:5px 5px 0px 0px;border-bottom:none;width:88.4%;color:#333;padding:7px;float:left;margin-left:5px;}
+	#sag table {width:100%;}
+	#sag thead td:first-child {border-radius:5px 0px 0px 0px;}
+	#sag thead td:last-child {border-radius:0px 5px 0px 0px;}
+	#sag thead td:last-child {border-right:1px solid #cacaca;}
+	#sag thead td{border-bottom:none;color:#333;font-weight:bold;font-size:13px;padding:10px;background:url(../resimler/t_baslik.png) repeat-x;border-top:1px solid #cacaca;border-left:1px solid #cacaca;border-right:none;}
+	#sag tfoot td:first-child {border-radius:0px 0px 0px 5px;}
+	#sag tfoot td:last-child {border-radius:0px 0px 5px 0px;}
+	#sag tfoot td{border-left:none;border-top:1px solid #cacaca;padding:14px;background:url(../resimler/t_baslik.png) repeat-x;border-bottom:1px solid #cacaca;border-right:none;}
+	#sag tfoot td:last-child {border-right:1px solid #cacaca;}
+	#sag tfoot td:first-child {border-left:1px solid #cacaca;}
+	#sag tbody td{padding:5px;border:1px solid #cacaca;border-bottom:none;border-right:none;background:#fff;}
+	#sag tbody a {color:#2c93dd}
+	#sag tbody td:last-child {border-right:1px solid #cacaca;}
+	#sag #islemyap {margin:10px;overflow:auto;}
+	#sag #islemyap ul li {float:left;}
+	#sag #islemyap ul li:first-child {margin-top:2px;}
+	#ypf_sol {float:left;width:500px}
+	#ypf_sag {float:right;}
+	#ypturler {width:350px;float:right;border:1px solid #cacaca;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;padding:5px;}
+	#ypturler label{display:inline;}
+	#ypturler ul li {padding:5px;border-bottom:1px solid #eee;color:#333;text-align:right;float:left;width:100px;}
+	#ypturler ul li:last-child {}
+	#ypf_et {margin-top:10px;float:right;}
+	.fet {margin-top:5px;overflow:auto;width:355px;}
+	#fetekle {width:300px;}
+	.fet ul li {padding:3px;background:#000;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;color:#fff;float:left;margin:2px;}
+	.fet ul li a {color:#fff;}
+#ustune {padding:6px;border:1px solid #cacaca;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;}
+#ustune h3 {padding:0px 0px 5px 0px;color:#333;}
+#ustune a {background:#000;color:#fff;padding:2px;margin-left:2px;border-radius:3px;-webkit-border-radius:3px;-moz-border-radius:3px;}
+	#partlari {margin-top:10px;}
+	#partlari ul li{width:395px;overflow:auto;padding:3px 0px;}
+	#partlari ul li input{float:left;}
+	#partlari ul li span{float:left;width:43px;padding:1px;}
+	#partlari ul li span a {float:left;margin-top:7px;font-size:11px;}
+	#partlari ul li .dpsonuc {margin:4px;}
+	#f_part_ekle {float:right;margin-right:15px;}
+	.hatali {border:1px solid red;}
+	#listeUL {margin-right:50px;border-right:2px solid #cacaca;padding:10px;border-radius:5px;}
+	#listeUL h3 {margin-bottom:5px;color:#333;}
+	#listeUL ul li{padding:3px;border-bottom:1px solid #cacaca;}
+	#listeUL ul li a {color:#2c93dd;}
+#sayfalama {text-align:center;margin-top:10px!important;font-size:16px;}
+#sayfalama a{padding:3px;border:1px solid #cacaca;border-radius:3px;-moz-border-radius:3px;-webkit-border-radius:3px;background:#eee;color:#666;margin:1px;}
+#sayfalama a:hover {color:#555;background:#ddd;}
+#sayfalama .saktif {background:#333;color:#fff;border:1px solid #000;}
+.buton {
+	cursor:pointer;
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fffaff), color-stop(1, #f0edf0) );
+	background:-moz-linear-gradient( center top, #fffaff 5%, #f0edf0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffaff', endColorstr='#f0edf0');
+	background-color:#fffaff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#777777;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 10px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+}.buton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0edf0), color-stop(1, #fffaff) );
+	background:-moz-linear-gradient( center top, #f0edf0 5%, #fffaff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0edf0', endColorstr='#fffaff');
+	background-color:#f0edf0;
+}.buton:active {
+	position:relative;
+	top:1px;
+}
+select {border:1px solid #cacaca;background:#f2f2f2;padding:5px;}
+/* BOT */
+#botsol {width:200px;float:left;border-right:1px solid #ddd;min-height:200px;}
+#botsol ul li a{display:block;color:#666;padding:7px;background:rgb(252,252,252);border-bottom:1px solid #ddd;}
+#botsol ul li a:hover {background:#eee;}
+#botsag {width:850px;float:left;margin-left:10px;}
+#botsag ul.bfilm li.bfilm {padding:5px;overflow:auto;border-bottom:1px solid #ddd;background:rgb(252,252,252);}
+#botsag ul.bfilm li.bfilm ul li {float:left;color:#666}
+#botsag ul.bfilm li.bfilm:hover {background:#eee;}
+#botsag ul.bfilm li.bfilm ul li:first-child{padding:8.5px 5px;margin-right:1px;}
+#botsag ul.bfilm li.bfilm ul li:last-child{float:right;}
+#bsayfalama {overflow:auto;margin:10px auto;}
+#bsayfalama li{border:1px solid #ddd;background:#eee;float:left;margin:3px;}
+#bsayfalama li a{display:block;color:#333;padding:5px;}

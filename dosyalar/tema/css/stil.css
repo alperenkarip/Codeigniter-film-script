@@ -1,0 +1,294 @@
+html {}
+body {margin: auto;font-size:12px;font-family:Arial;}
+h1,h2,h3,h4,p,span,a,input,textarea {padding:0px;margin:0px;text-decoration:none;}
+ul,li {list-style-type:none;margin:0px;padding:0px;}
+#hepsi {height:100%;min-height:760px;margin:0 auto;position:relative;}
+#ust2 {width:100%;height:45px;position:relative;background:url(../resimler/ust-arka-3.png);}
+#ust2 #ust2sol {float:left;margin-top:4px;margin-left:145px;}
+#ust2 #ust2sag {float:right;height:45px;margin-right:153px;font-size:14px;}
+#ust2 #ust2sag #ust2menu {height:44px;}
+#ust2 #ust2sag #ust2menu a:first-child {}
+#ust2 #ust2sag #ust2menu a {float:left;height:30px;color:#fff;padding:15px 5px 0px 5px;}
+#ust2 #ust2sag #ust2menu a:hover{background:url(/film/tema/resimler/ust-arka-2.png);}
+#duzen4 {width:936px;margin:40px auto;overflow:auto;position:relative;}
+#duzen4sol {width:25%;min-width:25%;float:left;background:#fff;}
+#duzen4sol a{color:rgb(0, 92, 255);font-size:11px;}
+#duzen4sol .duzen4solresim {min-height:280px;max-height:285px;}
+#duzen4sol .duzen4solresim img{min-height:280px;max-height:280px;width:100%}
+#duzen4sol .duzen4solbilgiler {margin:10px;font-size:11px;overflow:auto;height:260px;}
+#duzen4sol .duzen4solbilgiler .d4sbu {margin-bottom:10px;}
+#duzen4sol .duzen4solbilgiler .d4sbb {color:#643a10;width:100%;overflow:hidden;}
+#duzen4sol .duzen4solbilgiler .d4sbt {color:#0cbdd1;float:left;margin:5px 0px;}
+#duzen4sol .duzen4solbilgiler .d4sbi {float:right;color:#007bc8;margin:5px 0px;}
+#duzen4sol .duzen4solbilgiler .d4sbd .d4sby {clear:both;margin-top:5px;overflow:auto;}
+#duzen4sol .duzen4solbilgiler .d4sbd .d4sby .d4sbx {float:left;color:#404040;width:91px;font-weight:bold;}
+#duzen4sol .duzen4solbilgiler .d4sbd .d4sby .d4sbz {float:left;color:#404040;}
+#duzen4sag {width:75%;float:left;}
+#duzen4sag img{width:115.6px;height:140px;float:left;}
+#duzen4sag #d4filmler div{display:none;}
+.sc ::-webkit-scrollbar {
+    width: 6px;
+}
+.sc ::-webkit-scrollbar-track {
+    background: #f2f2f2;
+	border-radius:10px;
+	border:1px solid #eeeeee;
+    -webkit-box-shadow: inset 1px 1px 2px rgba(0,0,0,0.1);
+}
+.sc ::-webkit-scrollbar-thumb {
+    background: #8a8a8a;
+    -webkit-box-shadow: inset 1px 1px 2px rgba(0,0,0,0.2);
+	border-radius:10px;
+}
+.sc ::-webkit-scrollbar-thumb:hover {
+    background: #AAA;
+}
+.sc ::-webkit-scrollbar-thumb:active {
+    background: #888;
+    -webkit-box-shadow: inset 1px 1px 2px rgba(0,0,0,0.3);
+}
+.secti {color:#fff!important;}
+.check-icon {display:block;float:left;background:url(../resimler/check_5-16.png) no-repeat;width:16px;height:16px;padding:1px;}
+#orta {overflow:auto;margin:0px 0px 20px 0px;}
+#izle2 {width:65%;margin:10px auto;background:rgba(243, 243, 243, 0.8);padding:5px 0px 5px 5px;border:1px solid #ddd;border-radius:6px;-webkit-border-radius:6px;-moz-border-radius:6px;position:relative;}
+#izle2 #i2film_baslik h3{font-size: 23px;font-family:Arial;font-weight:bold;color: #6a6968;margin:5px 0px;}
+#izle2 #i2film_b {margin-bottom:10px;}
+#izle2 #i2film_b i{font-size:11px;color:#444;}
+#izle2 #i2film {overflow:auto;}
+#izle2 #i2film #i2filmsol{float:left;width:55%;max-height:393px;min-height:393px;overflow:auto;}
+#izle2 #i2film #i2filmsol .film_kod {min-height:393px;}
+#izle2 #i2film #i2filmsol #rFilm div{height:100%;}
+#izle2 #i2film #i2filmsag{float:right;width:45%;height:393px;overflow:hidden;position:relative;}
+#izle2 #i2film #i2filmsag #i2filmsagust{padding:10px 10px;background:rgba(243,243,243,0.7);border-bottom:3px solid #ccc;margin-top:0px;}
+#izle2 #i2film #i2filmsag #i2filmsagust ul li {margin:3px 0px;color:#333;clear:both;}
+#izle2 #i2film #i2filmsag #i2filmsagust ul li a{color:rgb(20, 117, 207);}
+#izle2 #i2film #i2filmsag #i2filmsagust ul li label{font-weight:bold;width:91px;margin-right:3px;float:left;text-align:right;}
+#izle2 #i2film #i2filmsag #i2filmsagust ul li span{font-size:11px;}
+#izle2 #i2film #i2filmsag #i2filmsagalt {margin:10px 0px 0px 5px;}
+#izle2 #i2film #i2filmsag #i2filmsagalt .film_konu {font-size:11px;color:#333;float:left;margin:5px 10px 10px 10px;overflow:auto;max-height:105px;}
+#izle2 #i2film #i2filmsag #i2kalt {position:absolute;bottom:0px;width:100%;}
+#izle2 #i2film #i2filmsag #i2kalt span{background:rgba(243,243,243,0.6);border:1px solid #ddd;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;display:block;padding:5px;margin:0px 5px 5px 5px;}
+#izle2 #i2film #i2filmsag #i2kalt span a {color:rgb(20, 117, 207);}
+#izle2 #i2film #i2filmsag #i2fpuan {margin:0px 10px;}
+#izle2 #i2film #i2filmsag #i2fpuan ul li{display:inline-block;margin-right: 3px;height: 21px;margin-top: 5px;}
+#izle2 #i2film #i2filmsag #i2fpuan ul li h3{color:rgb(86, 74, 221);float:right;}
+#izle2 #i2film #i2filmsag #i2fpuan .i2cg a{background-color:#536cbd;font-size:12px;color: rgb(255, 255, 255);padding: 5px;}
+#izle2 #i2film #i2filmsag #i2fpuan .i2fd a{background-color:#ffbb00;font-size:12px;color: #000a33;padding: 5px;}
+#izle2 #i2film #i2filmsag #i2fpuan .i2bb a{background-color:#bd5353;font-size:12px;color: #fff;padding: 5px;}
+#izle2 #i2filmpartlar {margin:13px 20px 0px 10px;border: 1px solid #ddd;padding: 5px;border-radius: 5px;background:rgba(243,243,243,0.7);}
+#izle2 #i2filmpartlar a{margin-right:3px;}
+#izle2 #i2filmyorumlar {width:60%;}
+#rFilm {height:393px;}
+.film_parcalari a.aktif {background: #ddd;color: #333;box-shadow: none;border: 1px solid rgb(192, 192, 192);}
+#i2filmyorumlar {float:left;}
+#i2anketyorum {float:right;width:39%;}
+.ankets {padding:10px;overflow:auto;}
+.ankets h3 {color:#333;}
+.ankets .anketsc {margin-left:15px;margin-top:5px;}
+.ankets .anketsc li {position:relative;clear:both;margin:6px 0px;margin-left:5px;}
+.ankets .anketsc li span{margin-top:-2px;margin-left:2px;float:left;font-size:11px;color:#333;}
+.ankets .anketsc li input{margin:0px!important;}
+.ankets .anketsc li .anketyuzdecizgi{clear:both;display:block;width:0%;border-bottom:2px solid rgb(36, 112, 196);}
+.ankets .anketsc li .anketinput{height:13px;float:left;width:27px;text-align:right;margin-left:-27px;font-size:11px;color:rgb(36, 112, 196);font-weight:bold;}
+.ankets .anketsc li .anketinput input{float:right;}
+.ankets .anketos {overflow:auto;float:right;}
+.ankets .anketos a {float:left;padding:3px;margin:2px;}
+.ankets .anketos a div {margin: 4px 0px 0px 6px;}
+.ankets .anketos a font{float:left;}
+.ankets .anketos a.anketov{background:#536cbd;color:#fff;}
+.ankets .anketos a.anketsg{background:#c7c7c7;color:#12100f;}
+/* Reklamlar */
+#fizleorta {max-height: 100px;overflow: hidden;}
+#reklamsol {position:absolute;top:50px;left:0px;width:120px;overflow:hidden;background:#eee;}
+#reklamsag {position:absolute;top:50px;right:0px;width:120px;overflow:hidden;background:#eee;}
+#d3kataltreklam {width: 240px;overflow: hidden;margin:5px auto;}
+#rKod {max-width: 400px; max-height: 300px; margin: 0px auto; overflow:hidden; }
+#reklamUst {position:relative;width:65%;margin:0 auto;margin-top:10px;height:65px;overflow:hidden;}
+/* Yorum */
+.y_yap {border:1px solid #b1b7ca;overflow:auto;margin-top:10px;background:rgba(243,243,243,0.7);}
+.y_yap label {display:block;padding:5px 15px;}
+.y_yap input {float:left;margin:5px 1px;background:#fff;font-size:11px;padding:3px;color:#666;display:block;border:1px solid #ccdbe6;}
+.y_yap input[type=button] {background:#c7c7c7;color:#000;margin:1px;padding:10px 30px;cursor:pointer;}
+.y_yap textarea {float:left;margin:5px 1px;background:#fff;font-size:11px;padding:3px;color:#666;width:91%!important;height:70px!important;display:block;border:1px solid #ccdbe6;}
+.yorum_baslik {background:url(../resimler/izle-yorum-baslik-arka.png) no-repeat #3c578e;padding:5px;color:#fff;margin:1px;font-weight:bold!important;font-size:14px;}
+.kucuk-ok {padding:4px;float:left;background:url(../resimler/kucuk-ok.png) no-repeat;}
+.kucuk-ok-beyaz {padding:4px;float:left;background:url(../resimler/kucuk-ok-beyaz.png) no-repeat;}
+.yorum_baslik i {margin-top:2px;}
+.y_yazan {color:#3f3d3c;float:left;width:100%;font-weight:bold;margin:0px 0px;}
+.y_yazan .y-artieksi {float:right;color:#2e315e;width:85px;font-weight:normal;}
+.yanitla-link {font-size:11px;font-weight:bold;margin:5px 0px 0px 0px;color:#546fa6;float:left}
+.yanitla-link:hover {text-decoration:underline;}
+.y_yazan .y-artieksi a{font-size:10px;color:#2e315e;}
+.y_yazan .y-artieksi a {float:right;}
+.y_yazan .y-artieksi .yorum-eksi {float:right;}
+.y_yazan .y-artieksi a:hover{opacity:0.5;}
+.y_yazan .y-artieksi font{font-size:11px;color:#546fa6;float:right;margin-top:2px;font-weight:bold;margin-right:3px;}
+.y_yorum {width:99%;overflow:hidden;color:#535454;font-size:11px;text-shadow:1px 1px white;}
+.yli-cizgi {border-top:1px solid #e5e9ea;display:block;border-bottom:1px solid #fff;margin:10px 0px;}
+.ybi {background:url(../resimler/yorumlar-baslik-icon.png) no-repeat;width:22px; height:18px;display:block;float:left;margin-right:10px;}
+.ypbi {background:url(../resimler/yorum-yap-icon.png) no-repeat;width:22px; height:18px;display:block;float:left;margin-top:2px;}
+.yorumlar {margin:0px;padding:0px;}
+.yorumlar li {background:#f3f3f3;clear:both;padding:10px;border-bottom:1px solid #cecece;overflow:hidden;}
+ul.yorumlar li .yorumlar-av {float:left;padding:1px;border:1px solid #cfcfcf;margin-right:10px;}
+ul.yorumlar li .yorumlar-av img{width:45px;height:45px;}
+.yorumlar-s {float:left;width:88%;}
+.yorumlar-s .y-yanit {display:none;margin-left:-2px;}
+.yorumlar-s .y-yanit input:first-child{width:40%!important;}
+.yorumlar-s .y-yanit input:last-child{width:97%!important;margin:-2px 1px;}
+.yorumlar-s .y-yanit-b {font-size:11px;color:#757575;margin:5px 0px 0px 9px;}
+.yy_gonder {border: 1px solid #ccc;margin-top:5px;cursor:pointer;background: #ddd;color: #333;}
+.yorumlar-s .y-yanit-y {color:#333;margin:2px;font-size:11px;padding:7px;border-bottom:1px solid #ccc;}
+.yorumlar-s .y-yanit-y:hover {background:rgb(226, 226, 226);}
+.yorumlar-s .y-yanit-y strong{color:#546fa6}
+.yorumlar-s .daha-fazla-yanit {padding:5px;color:#666;margin:5px 0px 5px 0px;border:1px solid #ddd;background:#eee;text-align:center;font-weight:bold;display:block;}
+.yorumlar-s .daha-fazla-yanit:hover {background:#ddd;border:1px solid #ccc;}
+/* Etiketler */
+#etiketler {margin:10px auto;width:90%;overflow:auto;}
+#etiketler a {border:1px solid red;padding:5px;margin:2px;display:inline-block;background:#eee;border:1px solid #ccc;color:#333;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px;}
+#etiketler a:hover {border:1px solid #aaa;color:#333;background:#ccc;}
+/* Form olayları */
+.olumsuz {border: 1px solid #f2c4c2!important;background-color: #ffeceb!important;}
+.olumlu {}
+textarea {resize:none;width:450px!important;height:170px!important;}
+.input {padding: 3px;
+font-size: 11px;
+border-radius: 3px;
+border: 1px solid #ccc;}
+/* Sayfa */
+#sayfa {padding:10px;width:980px;margin:0 auto;overflow:auto;position:relative;
+background:url(../resimler/ust-arka-4.png);
+margin-top:10px;
+border-radius:6px;
+color:#fff;
+border:1px solid black;
+}
+#sayfa li {list-style-type:disc!important;}
+#sayfa a {color:#3f8faf}
+#sayfa label {display:block;padding:5px 0px;color:#fff;}
+#ssol {float:left;width:700px;padding:10px;}
+#ssag {float:right;width:225px;padding:10px;}
+#ssag span {display:block;padding:5px;}
+#ssol input {margin:0px 10px;background:rgb(255, 255, 255);padding:5px;color:#737d7f;border:1px solid #ddd;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;}
+#ssol input[type=button] {margin:10px;padding:10px 30px;}
+#ssol textarea {margin:0px 10px;background:rgb(255, 255, 255);padding:5px;color:#737d7f;border:1px solid #ddd;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;}
+.sbaslik {padding:5px;border-bottom:1px solid #cacaca;color:#f3f3f3;margin-bottom:5px;}
+/* Sayfalama */
+#sayfala {text-align:center;font-size:16px;height:30px;margin-top:20px;position:relative;}
+#sayfala a{padding:5px;background:#f3f3f3;border:1px solid #ddd;margin:2px;color:#333;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;}
+#sayfala a:hover {color:rgb(30, 66, 184);border:1px solid rgb(126, 186, 252);background:rgb(146, 210, 253);}
+#sayfala .saktif {color:rgb(30, 66, 184);border:1px solid rgb(126, 186, 252);background:rgb(146, 210, 253);}
+/* Film düzen 1 */
+.box:hover {border:1px solid red;margin:-1px;}
+#orta #filmler li{float:left;overflow:hidden;/*width:160px;height:240px;*/}
+#orta #filmler li a{display:block;position:relative;}
+#orta #filmler li img{/*width:160px;height:240px;*/}
+#filmler li #d1h {display:none;}
+.d1fhd{float:left!important}
+.d1fhi{float:right!important;}
+/* Film düzen 2 */
+#D2 {overflow:auto;margin:10px;position:relative;}
+#D2 li.d2fli {float: left;background:url(../resimler/ust-arka-4.png); border-radius:6px; -webkit-border-radius:6px;-moz-border-radius:6px;margin: 2px;border:1px solid #333;padding: 2px;width: 340px;}
+#D2 li.d2fli #d2sol {float:left;color:#3f4c54;}
+#D2 li.d2fli #d2sag {float:left;width:175px;color:#3f4c54;}
+#D2 li.d2fli #d2sag a {color:rgb(255, 207, 121);}
+#D2 li img {border-radius:7px;-webkit-border-radius:7px;-moz-border-radius:7px;}
+#D2 li.d2fli #d2sag .d2li li {color:#fff;width:160px;margin:4px 0px 0px 5px;font-size:11px;}
+#D2 .d2baslik {margin-left:10px;margin-top:8px;font-size:16px;}
+#D2 .d2resim .d2dublaj {background:#000;font-size:11px;padding:3px;position:absolute;top:0px;border-radius:0px 0px 4px 0px;-webkit-border-radius:0px 0px 4px 0px;-moz-border-radius:0px 0px 4px 0px;color:#fff;}
+#D2 .d2resim .d2imdb {background:#000;color:#fff;padding:3px;font-size:11px;border-radius:4px 0px 0px 0px;-webkit-border-radius:4px 0px 0px 0px;-moz-border-radius:4px 0px 0px 0px;position:absolute;right:0px;bottom:0px;}
+#D2 .d2resim {float:left;position:relative;}
+#D2 .d2resim img {width:162px;height:242px;}
+#D2 .d2puan {overflow:auto;border:1px solid rgb(22,22,22);border-radius:5px;background:#000;margin-top:5px;}
+#D2 .d2puan li{float:left;margin:5px;padding:1px;color:rgb(156, 156, 156);}
+#D2 .d2puan li:last-child {float:right;}
+.dgor {padding:3px;background:red;color:#fff;}
+/* Film düzen 3 */
+#d3 {width:65.5%;margin:10px auto;overflow:auto;position:relative;}
+#d3sol {background:url(../resimler/d3arka.png);border-radius:6px;float:left;width:72%;border:1px solid rgb(29, 170, 182);}
+#d3sol ul.d3filmler .d3filmler-li {margin-bottom:0px;overflow:auto;}
+#d3sol ul.d3filmler li .d3fbaslik {padding:7px 5px;background:url(../resimler/baslik-arka.png) repeat-x;color:#fff;text-shadow:1px 1px #2099b3;height:18px;}
+#d3sol ul.d3filmler li .d3fbaslik a{color:#fff;}
+#d3sol ul.d3filmler li:first-child .d3fbaslik{margin:1px;border-radius:6px 5px 0px 0px;}
+#d3sol ul.d3filmler li .d3fbaslik{margin:1px;}
+#d3sol ul.d3filmler li .d3fbalt {background:url(../resimler/d3arka.png);margin:0px 1px;padding:2px 5px;color:#046075;}
+#d3sol ul.d3filmler li .d3ffilm {margin:1px;overflow:auto;}
+#d3sol ul.d3filmler li .d3ffilm .d3fresim {float:left;position:relative;}
+#d3sol ul.d3filmler li .d3ffilm .d3fd{position:absolute;margin:1px 0px 0px 1px;top:0px;left:0px;padding:2px;font-size:13px;background:rgb(229, 247, 252);color:rgb(60, 118, 192);border-radius:5px 0px;}
+#d3sol ul.d3filmler li .d3ffilm .d3fresim a img {border-radius:6px;border:1px solid rgb(148, 195, 255)}
+#d3sol ul.d3filmler li .d3ffilm .d3fb{float:left;width:73%;padding:5px;color:rgb(7, 40, 51);}
+#d3sol ul.d3filmler li .d3ffilm .d3fb a{color:#046075;}
+#d3sol ul.d3filmler li .d3ffilm .d3fo{margin-bottom:10px;}
+#d3sol ul.d3filmler li ul.d3puan {margin:0px 0px 5px 0px;font-size:15px;font-weight:bold;color:#3d4f54;overflow:auto;}
+#d3sol ul.d3filmler li ul.d3puan li{float:left;margin:5px 10px;}
+#d3sol ul.d3filmler li ul.d3puan li:last-child {float:right!important;}
+#d3sag {border:1px solid;border-radius:6px;float:right;border:1px solid rgb(29, 170, 182);background:#fff;width:27%;}
+#d3sag .d3sagkatbas {padding:7px 5px;background:url(../resimler/baslik-arka.png) repeat-x;color:#fff;text-shadow:1px 1px #2099b3;height:18px;}
+#d3sag ul li:first-child .d3sagkatbas {margin:1px;border-radius:6px 5px 0px 0px;}
+#d3sag .d3e_ustun {}
+#d3sag .d3e_ustun li{background:url(../resimler/sag-menu-arka.png) repeat-x;height:16px;padding:7px 5px;}
+#d3sag .d3e_ustun li:hover {background:#647883;color:#fff;text-shadow:none;}
+#d3sag .d3e_ustun li:hover a{display:block;color:#fff;text-shadow:none;}
+#d3sag .d3e_ustun li:hover span{color:#fff;text-shadow:none;}
+#d3sag .d3e_ustun li:hover .d3-sag-menu-ok{background:url(../resimler/sag-menu-okh.png) no-repeat;margin-top:4px;}
+#d3sag .d3e_ustun a{display:block;color:#3d4f54;text-shadow:1px 1px #fff;}
+.d3puan {border: 1px solid #ddd;background: #fff;margin: 5px!important;border-radius: 6px;color: #777!important;}
+.d3-sag-menu-ok {background:url(../resimler/sag-menu-ok.png) no-repeat;width:9px;height:10px;display:block;float:left;margin-top:3px;margin-right:5px;}
+.d3-sag-menu-sayi {float:right;color:#536c73;text-shadow:1px 1px #fff;}
+/* Üst alt menü */
+
+.mmenu {color:white;font-weight:bold;cursor:default;}
+.mmenuicerik {
+max-width: 410px;
+z-index: 99999;
+padding: 5px;
+position: absolute;
+/*margin-top: 11px;*/
+margin-left: -15px;
+background: url(../resimler/ust-arka-4.png);
+border-radius: 0px 0px 5px 5px;
+border: 1px solid #000;
+border-top: none;
+}
+.mmenuicerik a {padding:1px;margin:2px;font-size:12px;float:left;color:#ccc;min-width:130px;}
+.mmenuicerik a:hover {text-decoration:underline}
+.mmenuicerik a i {margin:0px 5px;opacity:0.4;}
+.mmenuicerik a i.itik{opacity:1.0;}
+/* Buton */
+.buton {
+	cursor:pointer;
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fffaff), color-stop(1, #f0edf0) );
+	background:-moz-linear-gradient( center top, #fffaff 5%, #f0edf0 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffaff', endColorstr='#f0edf0');
+	background-color:#fffaff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	color:#777777;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 10px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #ffffff;
+}.buton:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f0edf0), color-stop(1, #fffaff) );
+	background:-moz-linear-gradient( center top, #f0edf0 5%, #fffaff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f0edf0', endColorstr='#fffaff');
+	background-color:#f0edf0;
+}.buton:active {
+	position:relative;
+	top:1px;
+}
+/* Alt bilgi */
+#alt {width: 100%;color:#fff;height: 47px;margin-top:32px;font-size:11px;position:relative;background: url(../resimler/ust-arka-3.png);}
+#alt a{color:#fff;}
+#alt .alt_ic {width:980px;margin:0 auto;overflow:auto;}
+#alt .alt_sol {display:inline-block;width:10.2%;float:left;}
+#alt .alt_sol a{display:block;margin-top:2px;border-radius:5px 0px;-moz-border-radius:5px 0px;background:url(../resimler/d3arka.png);}
+#alt .alt_orta {overflow:hidden;padding:0px 5px;margin-top:2px;display:inline-block;width:77%;float:left;text-align:center;height:44px;}
+#alt .alt_sag {margin-top:13px;display:inline-block;width:11%;float:left;text-align:right;}

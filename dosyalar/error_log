@@ -1,0 +1,626 @@
+[03-Apr-2013 12:39:35 UTC] PHP Warning:  Unterminated comment starting line 273 in /home/psozleri/public_html/film/application/config/config.php on line 273
+[03-Apr-2013 14:14:02 UTC] PHP Fatal error:  Call to undefined function where() in /home/psozleri/public_html/film/application/models/kategoriler.php on line 5
+[03-Apr-2013 14:14:03 UTC] PHP Fatal error:  Call to undefined function where() in /home/psozleri/public_html/film/application/models/kategoriler.php on line 5
+[03-Apr-2013 14:14:03 UTC] PHP Fatal error:  Call to undefined function where() in /home/psozleri/public_html/film/application/models/kategoriler.php on line 5
+[03-Apr-2013 14:14:04 UTC] PHP Fatal error:  Call to undefined function where() in /home/psozleri/public_html/film/application/models/kategoriler.php on line 5
+[03-Apr-2013 14:22:16 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/psozleri/public_html/film/application/models/kategoriler.php on line 7
+[03-Apr-2013 14:22:17 UTC] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/psozleri/public_html/film/application/models/kategoriler.php on line 7
+[04-Apr-2013 09:18:55 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/filmler.php on line 143
+[04-Apr-2013 09:18:56 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/filmler.php on line 143
+[04-Apr-2013 09:18:57 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/filmler.php on line 143
+[04-Apr-2013 09:19:10 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/filmler.php on line 143
+[04-Apr-2013 09:19:11 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/filmler.php on line 143
+[05-Apr-2013 15:25:33 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 15:25:43 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 15:25:46 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 15:25:49 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 15:25:50 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 15:25:50 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 15:25:51 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 15:25:52 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 15:25:55 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 15:26:11 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 60
+[05-Apr-2013 20:04:20 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/psozleri/public_html/film/application/views/filmler.php on line 135
+[05-Apr-2013 20:04:21 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/psozleri/public_html/film/application/views/filmler.php on line 135
+[05-Apr-2013 20:04:34 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/psozleri/public_html/film/application/views/filmler.php on line 135
+[05-Apr-2013 20:04:36 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/psozleri/public_html/film/application/views/filmler.php on line 135
+[05-Apr-2013 20:04:52 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/views/filmler.php on line 178
+[05-Apr-2013 20:05:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/views/filmler.php on line 178
+[05-Apr-2013 20:05:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/views/filmler.php on line 176
+[05-Apr-2013 20:05:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/views/filmler.php on line 176
+[06-Apr-2013 18:20:26 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:20:32 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:20:35 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:20:42 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:20:43 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:20:48 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:20:49 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:20:49 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:21:17 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:21:24 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:21:28 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:22:29 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:23:10 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[06-Apr-2013 18:23:44 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/psozleri/public_html/film/application/controllers/yonetim/etiketler.php on line 64
+[07-Apr-2013 09:57:32 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/film_ekle.php on line 47
+[07-Apr-2013 09:57:40 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/film_ekle.php on line 47
+[07-Apr-2013 10:49:27 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/views/yonetim/film_ekle.php on line 54
+[07-Apr-2013 10:49:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/views/yonetim/film_ekle.php on line 54
+[07-Apr-2013 10:51:52 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/views/yonetim/film_ekle.php on line 55
+[07-Apr-2013 10:52:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/views/yonetim/film_ekle.php on line 55
+[07-Apr-2013 10:55:53 UTC] PHP Fatal error:  Call to undefined function trimc() in /home/psozleri/public_html/film/application/views/yonetim/film_ekle.php on line 52
+[07-Apr-2013 10:56:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/film_ekle.php on line 56
+[07-Apr-2013 17:24:12 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 2
+[07-Apr-2013 17:24:13 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 2
+[07-Apr-2013 17:24:27 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 2
+[07-Apr-2013 17:24:33 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 2
+[07-Apr-2013 17:24:38 UTC] PHP Fatal error:  Class 'CI_Model' not found in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 2
+[07-Apr-2013 18:09:06 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 59
+[07-Apr-2013 18:09:12 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 59
+[07-Apr-2013 18:13:09 UTC] PHP Fatal error:  Cannot use [] for reading in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 56
+[07-Apr-2013 18:17:30 UTC] PHP Fatal error:  Cannot use [] for reading in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 60
+[07-Apr-2013 18:23:08 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 62
+[07-Apr-2013 18:23:16 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 62
+[07-Apr-2013 18:23:39 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 62
+[07-Apr-2013 18:23:47 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 62
+[07-Apr-2013 18:24:54 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 62
+[07-Apr-2013 18:59:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 35
+[07-Apr-2013 18:59:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 35
+[07-Apr-2013 19:00:02 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 35
+[07-Apr-2013 19:00:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 35
+[08-Apr-2013 11:10:35 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[08-Apr-2013 13:03:16 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 68
+[08-Apr-2013 13:12:56 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 79
+[09-Apr-2013 06:47:38 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 78
+[09-Apr-2013 06:47:40 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 78
+[09-Apr-2013 06:47:42 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 78
+[09-Apr-2013 06:47:43 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 78
+[09-Apr-2013 10:49:08 UTC] PHP Parse error:  syntax error, unexpected T_FOREACH in /home/psozleri/public_html/film/application/views/izle.php on line 64
+[09-Apr-2013 11:24:45 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 91
+[09-Apr-2013 11:24:52 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/models/yonetim/y_filmler.php on line 55
+[09-Apr-2013 11:25:10 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/models/yonetim/y_filmler.php on line 55
+[09-Apr-2013 11:25:19 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/models/yonetim/y_filmler.php on line 55
+[09-Apr-2013 11:25:24 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/models/yonetim/y_filmler.php on line 55
+[09-Apr-2013 11:25:26 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/models/yonetim/y_filmler.php on line 55
+[09-Apr-2013 11:25:27 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/models/yonetim/y_filmler.php on line 55
+[09-Apr-2013 11:26:13 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/models/yonetim/y_filmler.php on line 55
+[09-Apr-2013 11:27:36 UTC] PHP Fatal error:  Call to undefined method y_filmler::bot_tkontrol() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 93
+[09-Apr-2013 12:42:49 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 119
+[09-Apr-2013 12:46:52 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 120
+[09-Apr-2013 12:47:40 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 120
+[09-Apr-2013 13:02:30 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 88
+[09-Apr-2013 13:02:54 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 88
+[09-Apr-2013 13:33:41 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 42
+[09-Apr-2013 16:04:47 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF, expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 139
+[09-Apr-2013 18:28:27 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 109
+[09-Apr-2013 18:32:58 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:33:02 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:33:06 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:33:20 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:33:38 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:33:51 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:34:22 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:35:08 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:35:22 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:35:31 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:35:38 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:35:39 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:35:40 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:35:40 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:35:40 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 66
+[09-Apr-2013 18:36:44 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 8
+[09-Apr-2013 19:49:42 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 105
+[10-Apr-2013 08:24:12 UTC] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 85
+[10-Apr-2013 10:22:58 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 77
+[10-Apr-2013 10:23:01 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 77
+[10-Apr-2013 10:23:10 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 77
+[10-Apr-2013 10:23:41 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 77
+[10-Apr-2013 10:23:48 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 77
+[10-Apr-2013 10:24:12 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 77
+[10-Apr-2013 10:24:29 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 77
+[10-Apr-2013 10:28:08 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 76
+[10-Apr-2013 10:28:22 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 76
+[10-Apr-2013 10:45:13 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 102
+[10-Apr-2013 10:55:29 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 101
+[10-Apr-2013 12:11:28 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 102
+[10-Apr-2013 12:13:23 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 59
+[10-Apr-2013 12:38:52 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 59
+[10-Apr-2013 15:08:19 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 98
+[10-Apr-2013 15:08:28 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 98
+[10-Apr-2013 15:08:39 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 98
+[10-Apr-2013 15:09:11 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 98
+[10-Apr-2013 15:09:38 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 97
+[10-Apr-2013 15:09:40 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 97
+[10-Apr-2013 15:43:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting T_VARIABLE or '$' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 102
+[10-Apr-2013 15:44:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting T_VARIABLE or '$' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 102
+[10-Apr-2013 15:44:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting T_VARIABLE or '$' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 102
+[10-Apr-2013 15:44:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting T_VARIABLE or '$' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 102
+[10-Apr-2013 15:44:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting T_VARIABLE or '$' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 102
+[10-Apr-2013 17:11:48 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 99
+[10-Apr-2013 17:11:50 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 99
+[10-Apr-2013 17:11:53 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 99
+[10-Apr-2013 17:11:59 UTC] PHP Fatal error:  Function name must be a string in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 99
+[10-Apr-2013 18:29:22 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[10-Apr-2013 18:29:24 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[10-Apr-2013 18:29:47 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[10-Apr-2013 18:29:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[10-Apr-2013 18:30:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[10-Apr-2013 18:30:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[10-Apr-2013 18:30:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[10-Apr-2013 18:30:33 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[10-Apr-2013 18:30:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 57
+[10-Apr-2013 19:40:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:40:41 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:44:44 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 108
+[10-Apr-2013 19:45:56 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 149
+[10-Apr-2013 19:47:13 UTC] PHP Fatal error:  Call to undefined function get_date() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:47:14 UTC] PHP Fatal error:  Call to undefined function get_date() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:47:14 UTC] PHP Fatal error:  Call to undefined function get_date() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:47:15 UTC] PHP Fatal error:  Call to undefined function get_date() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:47:21 UTC] PHP Fatal error:  Call to undefined function get_date() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:47:22 UTC] PHP Fatal error:  Call to undefined function get_date() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:47:23 UTC] PHP Fatal error:  Call to undefined function get_date() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:47:24 UTC] PHP Fatal error:  Call to undefined function get_date() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 19:47:24 UTC] PHP Fatal error:  Call to undefined function get_date() in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 7
+[10-Apr-2013 20:39:34 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF, expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 154
+[10-Apr-2013 20:39:41 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF, expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 153
+[11-Apr-2013 07:49:27 UTC] PHP Fatal error:  Function name must be a string in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 95
+[11-Apr-2013 07:49:29 UTC] PHP Fatal error:  Function name must be a string in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 95
+[11-Apr-2013 07:49:50 UTC] PHP Fatal error:  Function name must be a string in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 95
+[11-Apr-2013 07:49:58 UTC] PHP Fatal error:  Function name must be a string in /home/psozleri/public_html/film/application/views/yonetim/bot.php on line 95
+[11-Apr-2013 07:56:08 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 156
+[17-Apr-2013 19:41:11 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 64
+[18-Apr-2013 07:10:28 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 149
+[18-Apr-2013 07:11:38 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 147
+[18-Apr-2013 07:12:19 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 147
+[18-Apr-2013 07:13:14 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 145
+[18-Apr-2013 07:13:17 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 145
+[18-Apr-2013 07:13:21 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 145
+[18-Apr-2013 07:13:29 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 145
+[18-Apr-2013 07:13:43 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 148
+[18-Apr-2013 07:13:55 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 147
+[18-Apr-2013 07:14:05 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 145
+[18-Apr-2013 07:14:16 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 147
+[18-Apr-2013 07:14:22 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 147
+[18-Apr-2013 07:14:48 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 147
+[18-Apr-2013 07:15:16 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 148
+[18-Apr-2013 07:51:48 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 98
+[18-Apr-2013 08:01:43 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 40
+[18-Apr-2013 08:04:33 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:54 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 08:04:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/psozleri/public_html/film/application/controllers/yonetim/bot.php on line 83
+[18-Apr-2013 19:37:04 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 32
+[18-Apr-2013 19:37:20 UTC] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 32
+[18-Apr-2013 20:14:58 UTC] PHP Parse error:  syntax error, unexpected '@', expecting '&' or T_VARIABLE in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 12
+[18-Apr-2013 20:14:58 UTC] PHP Parse error:  syntax error, unexpected '@', expecting '&' or T_VARIABLE in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 12
+[18-Apr-2013 20:14:58 UTC] PHP Parse error:  syntax error, unexpected '@', expecting '&' or T_VARIABLE in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 12
+[18-Apr-2013 20:14:58 UTC] PHP Parse error:  syntax error, unexpected '@', expecting '&' or T_VARIABLE in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 12
+[18-Apr-2013 20:14:59 UTC] PHP Parse error:  syntax error, unexpected '@', expecting '&' or T_VARIABLE in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 12
+[18-Apr-2013 20:15:00 UTC] PHP Parse error:  syntax error, unexpected '@', expecting '&' or T_VARIABLE in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 12
+[18-Apr-2013 20:41:52 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 56
+[19-Apr-2013 08:58:51 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 49
+[19-Apr-2013 08:58:52 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 49
+[19-Apr-2013 08:58:53 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 49
+[19-Apr-2013 08:58:53 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 49
+[19-Apr-2013 08:58:55 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 49
+[19-Apr-2013 08:58:56 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 49
+[19-Apr-2013 08:58:59 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 50
+[19-Apr-2013 08:59:00 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 50
+[19-Apr-2013 09:09:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 60
+[19-Apr-2013 09:09:01 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 60
+[19-Apr-2013 09:09:02 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 60
+[19-Apr-2013 09:09:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 60
+[19-Apr-2013 09:09:10 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/controllers/mobil/anasayfa.php on line 60
+[19-Apr-2013 17:40:55 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/psozleri/public_html/film/application/views/filmler.php on line 173
+[19-Apr-2013 18:54:08 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/psozleri/public_html/film/application/views/filmler.php on line 139
+[25-Apr-2013 08:41:26 UTC] PHP Fatal error:  Call to undefined function is_num() in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 43
+[25-Apr-2013 08:41:27 UTC] PHP Fatal error:  Call to undefined function is_num() in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 43
+[25-Apr-2013 08:41:50 UTC] PHP Fatal error:  Call to undefined function is_num() in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 43
+[25-Apr-2013 08:42:26 UTC] PHP Fatal error:  Call to undefined function is_num() in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 43
+[25-Apr-2013 08:50:19 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 8
+[25-Apr-2013 09:09:44 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 83
+[25-Apr-2013 09:09:53 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 83
+[25-Apr-2013 09:09:57 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 83
+[25-Apr-2013 09:10:02 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 83
+[25-Apr-2013 09:10:04 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 83
+[25-Apr-2013 09:10:05 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 83
+[25-Apr-2013 09:10:24 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 83
+[25-Apr-2013 10:20:25 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 37
+[25-Apr-2013 10:20:33 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 37
+[25-Apr-2013 10:20:59 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 37
+[26-Apr-2013 17:02:07 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 85
+[26-Apr-2013 17:02:14 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 85
+[26-Apr-2013 17:02:17 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/filmler.php on line 85
+[26-Apr-2013 18:45:35 UTC] PHP Fatal error:  Call to a member function fsayi() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/yorumlar.php on line 23
+[26-Apr-2013 18:46:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/views/yonetim/yorumlar.php on line 73
+[26-Apr-2013 18:46:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/views/yonetim/yorumlar.php on line 73
+[26-Apr-2013 18:47:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/views/yonetim/yorumlar.php on line 73
+[26-Apr-2013 18:47:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/views/yonetim/yorumlar.php on line 73
+[27-Apr-2013 10:14:55 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/controllers/yonetim/mesajlar.php on line 38
+[27-Apr-2013 10:14:56 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/controllers/yonetim/mesajlar.php on line 38
+[27-Apr-2013 10:18:31 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 282
+[27-Apr-2013 14:23:53 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 49
+[27-Apr-2013 14:24:10 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 79
+[27-Apr-2013 14:24:11 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 79
+[27-Apr-2013 14:24:13 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 121
+[27-Apr-2013 14:59:40 UTC] PHP Fatal error:  Call to a member function etiket() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 179
+[27-Apr-2013 14:59:42 UTC] PHP Fatal error:  Call to a member function etiket() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 179
+[27-Apr-2013 14:59:42 UTC] PHP Fatal error:  Call to a member function etiket() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 179
+[27-Apr-2013 14:59:43 UTC] PHP Fatal error:  Call to a member function etiket() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 179
+[27-Apr-2013 14:59:43 UTC] PHP Fatal error:  Call to a member function etiket() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 179
+[29-Apr-2013 14:36:41 UTC] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 234
+[29-Apr-2013 15:20:49 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:19 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:19 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:30 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:30 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:31 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:32 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:21:32 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 237
+[29-Apr-2013 15:29:20 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 239
+[29-Apr-2013 15:29:22 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 239
+[29-Apr-2013 15:29:40 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 239
+[29-Apr-2013 15:29:41 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 239
+[29-Apr-2013 15:29:41 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 239
+[29-Apr-2013 15:29:42 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 239
+[29-Apr-2013 15:29:48 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 239
+[29-Apr-2013 15:30:03 UTC] PHP Fatal error:  Unsupported operand types in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 239
+[30-Apr-2013 12:12:07 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/views/filmler.php on line 583
+[30-Apr-2013 12:22:02 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/views/filmler.php on line 490
+[30-Apr-2013 12:58:18 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_ENCAPSED_AND_WHITESPACE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/psozleri/public_html/film/application/views/filmler.php on line 122
+[03-May-2013 07:13:52 UTC] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/izle.php on line 61
+[07-May-2013 19:52:43 UTC] PHP Fatal error:  Call to a member function yorumyanitlari() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 132
+[07-May-2013 19:52:45 UTC] PHP Fatal error:  Call to a member function yorumyanitlari() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 132
+[07-May-2013 20:04:04 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/models/filmler.php on line 186
+[07-May-2013 20:04:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/models/filmler.php on line 186
+[07-May-2013 20:04:13 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/models/filmler.php on line 186
+[07-May-2013 21:52:35 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 152
+[07-May-2013 21:52:36 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 152
+[08-May-2013 12:34:48 UTC] PHP Fatal error:  Call to undefined method CI_URI::ip_adress() in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 145
+[08-May-2013 12:34:56 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 48
+[08-May-2013 12:35:03 UTC] PHP Fatal error:  Call to undefined method CI_Input::ip_adress() in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 145
+[10-May-2013 06:57:53 UTC] PHP Fatal error:  Cannot use [] for reading in /home/psozleri/public_html/film/application/views/izle.php on line 403
+[10-May-2013 06:57:55 UTC] PHP Fatal error:  Cannot use [] for reading in /home/psozleri/public_html/film/application/views/izle.php on line 403
+[10-May-2013 06:58:32 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/views/izle.php on line 405
+[10-May-2013 06:58:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/views/izle.php on line 405
+[10-May-2013 06:58:39 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/views/izle.php on line 405
+[10-May-2013 07:03:58 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/psozleri/public_html/film/application/views/izle.php on line 401
+[10-May-2013 07:30:42 UTC] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_VARIABLE or '$' in /home/psozleri/public_html/film/application/views/izle.php on line 388
+[10-May-2013 07:30:44 UTC] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting T_VARIABLE or '$' in /home/psozleri/public_html/film/application/views/izle.php on line 388
+[10-May-2013 07:45:36 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/views/izle.php on line 396
+[10-May-2013 07:45:38 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/views/izle.php on line 396
+[10-May-2013 07:46:14 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/views/izle.php on line 396
+[10-May-2013 07:46:18 UTC] PHP Fatal error:  Can't use function return value in write context in /home/psozleri/public_html/film/application/views/izle.php on line 396
+[10-May-2013 07:46:26 UTC] PHP Parse error:  syntax error, unexpected T_INC, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/izle.php on line 396
+[10-May-2013 07:46:30 UTC] PHP Parse error:  syntax error, unexpected T_DEC, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/izle.php on line 396
+[10-May-2013 07:46:41 UTC] PHP Parse error:  syntax error, unexpected T_DEC, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/izle.php on line 396
+[10-May-2013 16:24:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/models/filmler.php on line 248
+[10-May-2013 16:24:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/models/filmler.php on line 248
+[10-May-2013 16:24:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/models/filmler.php on line 248
+[10-May-2013 16:24:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/models/filmler.php on line 248
+[10-May-2013 16:24:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/models/filmler.php on line 248
+[10-May-2013 16:24:51 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/models/filmler.php on line 248
+[10-May-2013 19:08:56 UTC] PHP Fatal error:  Call to undefined method y_anketler::asayi() in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 24
+[10-May-2013 19:09:03 UTC] PHP Fatal error:  Call to undefined method y_anketler::asayi() in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 24
+[10-May-2013 19:09:31 UTC] PHP Fatal error:  Call to undefined method y_anketler::asayi() in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 24
+[10-May-2013 19:09:33 UTC] PHP Fatal error:  Call to undefined method y_anketler::asayi() in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 24
+[10-May-2013 19:09:36 UTC] PHP Fatal error:  Call to undefined method y_anketler::asayi() in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 24
+[10-May-2013 19:09:38 UTC] PHP Fatal error:  Call to undefined method y_anketler::asayi() in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 24
+[10-May-2013 19:10:54 UTC] PHP Fatal error:  Call to undefined method y_anketler::asayi() in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 24
+[10-May-2013 19:49:28 UTC] PHP Fatal error:  Call to a member function anket_ekle() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 40
+[10-May-2013 20:06:33 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/anket_duzenle.php on line 16
+[10-May-2013 20:30:10 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:30:16 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:30:45 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:31:18 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:31:28 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:31:33 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:31:39 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 53
+[10-May-2013 20:31:43 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:31:48 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:31:57 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:32:28 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[10-May-2013 20:33:03 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/psozleri/public_html/film/application/models/yonetim/y_anketler.php on line 24
+[16-May-2013 18:03:53 UTC] PHP Warning:  POST Content-Length of 62232261 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-May-2013 19:33:28 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 73
+[16-May-2013 19:33:30 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 73
+[16-May-2013 19:45:21 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 79
+[16-May-2013 19:45:22 UTC] PHP Parse error:  syntax error, unexpected T_ELSE in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 79
+[16-May-2013 19:46:45 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 80
+[17-May-2013 08:02:45 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 68
+[17-May-2013 08:02:47 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 68
+[17-May-2013 08:02:48 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 68
+[17-May-2013 13:04:01 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 114
+[17-May-2013 13:04:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 114
+[17-May-2013 13:04:12 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 114
+[17-May-2013 13:04:27 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:28 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:29 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:49 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:50 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:50 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:50 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:51 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:51 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:51 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:51 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:04:51 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:02 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:03 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:09 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:10 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:25 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:05:26 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 113
+[17-May-2013 13:07:51 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 115
+[17-May-2013 13:07:52 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 115
+[18-May-2013 09:24:31 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/psozleri/public_html/film/application/views/izle.php on line 209
+[18-May-2013 12:39:24 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/views/filmler.php on line 245
+[18-May-2013 12:39:40 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/views/filmler.php on line 333
+[18-May-2013 12:39:47 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/psozleri/public_html/film/application/views/filmler.php on line 266
+[19-May-2013 09:41:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/views/yonetim/rduzenle.php on line 58
+[19-May-2013 09:41:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/views/yonetim/rduzenle.php on line 58
+[19-May-2013 09:41:12 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/views/yonetim/rduzenle.php on line 58
+[19-May-2013 09:41:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/views/yonetim/rduzenle.php on line 58
+[19-May-2013 17:42:32 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 48
+[19-May-2013 17:42:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 48
+[19-May-2013 18:10:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 57
+[19-May-2013 18:10:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 57
+[19-May-2013 18:10:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 57
+[19-May-2013 18:10:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 57
+[19-May-2013 18:10:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 57
+[19-May-2013 18:10:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 57
+[19-May-2013 18:10:58 UTC] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 155
+[19-May-2013 18:10:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 155
+[19-May-2013 18:10:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 155
+[19-May-2013 18:10:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 155
+[19-May-2013 18:10:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 155
+[19-May-2013 18:11:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 155
+[19-May-2013 18:11:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 155
+[19-May-2013 18:11:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 155
+[19-May-2013 18:11:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 155
+[19-May-2013 18:28:15 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:28:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:28:40 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 77
+[19-May-2013 18:28:58 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:29:06 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:19 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:20 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:21 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:29 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:29 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:29 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:30 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:33 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:34 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:35 UTC] PHP Fatal error:  Can't use method return value in write context in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 49
+[19-May-2013 18:30:52 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 89
+[19-May-2013 20:29:54 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 56
+[19-May-2013 20:31:00 UTC] PHP Warning:  POST Content-Length of 62232264 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-May-2013 20:39:35 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 68
+[19-May-2013 20:39:37 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 68
+[19-May-2013 20:39:52 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 66
+[19-May-2013 20:39:59 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 75
+[19-May-2013 20:40:21 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 66
+[19-May-2013 20:40:21 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 66
+[19-May-2013 20:40:21 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 66
+[19-May-2013 20:40:28 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 62
+[19-May-2013 20:40:53 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 89
+[20-May-2013 17:22:16 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/panel.php on line 40
+[20-May-2013 17:22:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/panel.php on line 40
+[20-May-2013 17:31:42 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/psozleri/public_html/film/application/controllers/yonetim/panel.php on line 45
+[20-May-2013 17:32:12 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/psozleri/public_html/film/application/controllers/yonetim/panel.php on line 45
+[22-May-2013 17:23:45 UTC] PHP Fatal error:  Call to a member function mesajlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/mesajlar.php on line 29
+[22-May-2013 17:25:19 UTC] PHP Fatal error:  Call to a member function mesajlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/mesajlar.php on line 29
+[22-May-2013 17:25:20 UTC] PHP Fatal error:  Call to a member function mesajlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/mesajlar.php on line 29
+[22-May-2013 17:26:11 UTC] PHP Fatal error:  Call to a member function mesajlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/mesajlar.php on line 23
+[22-May-2013 17:26:11 UTC] PHP Fatal error:  Call to a member function mesajlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/mesajlar.php on line 23
+[22-May-2013 17:28:18 UTC] PHP Fatal error:  Call to a member function mesajlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/mesajlar.php on line 24
+[22-May-2013 17:28:19 UTC] PHP Fatal error:  Call to a member function mesajlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/mesajlar.php on line 24
+[22-May-2013 17:36:51 UTC] PHP Fatal error:  Call to a member function yorumlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/yorumlar.php on line 30
+[22-May-2013 17:37:42 UTC] PHP Fatal error:  Call to a member function yorumlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/yorumlar.php on line 27
+[22-May-2013 17:38:00 UTC] PHP Fatal error:  Call to a member function takim() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/takim.php on line 29
+[22-May-2013 17:38:29 UTC] PHP Fatal error:  Call to a member function sayfalar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/sayfalar.php on line 30
+[22-May-2013 17:38:55 UTC] PHP Fatal error:  Call to a member function asayi() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/anketler.php on line 30
+[22-May-2013 17:39:20 UTC] PHP Fatal error:  Call to a member function reklamlar() on a non-object in /home/psozleri/public_html/film/application/controllers/yonetim/reklamlar.php on line 33
+[23-May-2013 09:30:51 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/views/rss.php on line 1
+[23-May-2013 09:30:53 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/views/rss.php on line 1
+[23-May-2013 09:30:56 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/views/rss.php on line 1
+[23-May-2013 10:28:56 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 10:28:57 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 10:28:57 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 10:28:58 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 10:28:58 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 10:29:02 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 10:29:03 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 10:29:03 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 10:35:10 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 10:35:11 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/psozleri/public_html/film/application/config/routes.php on line 44
+[23-May-2013 16:36:40 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 320
+[23-May-2013 16:36:44 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 320
+[23-May-2013 16:36:46 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 320
+[23-May-2013 16:36:47 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 320
+[24-May-2013 07:50:30 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/views/sitemap.php on line 1
+[24-May-2013 07:50:32 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/views/sitemap.php on line 1
+[24-May-2013 07:50:33 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/views/sitemap.php on line 1
+[24-May-2013 07:50:34 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/psozleri/public_html/film/application/views/sitemap.php on line 1
+[24-May-2013 20:22:52 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/film_duzenle.php on line 106
+[24-May-2013 20:22:54 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/film_duzenle.php on line 106
+[24-May-2013 20:22:56 UTC] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/psozleri/public_html/film/application/views/yonetim/film_duzenle.php on line 106
+[25-May-2013 05:43:15 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 372
+[25-May-2013 05:43:19 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 372
+[25-May-2013 17:32:15 UTC] PHP Fatal error:  Call to a member function cache() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 5
+[25-May-2013 17:34:03 UTC] PHP Fatal error:  Call to a member function cache() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 5
+[25-May-2013 17:36:02 UTC] PHP Fatal error:  Call to a member function cache() on a non-object in /home/psozleri/public_html/film/application/controllers/anasayfa.php on line 5
+[26-May-2013 14:34:00 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 275
+[26-May-2013 14:39:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 83
+[26-May-2013 14:39:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 83
+[26-May-2013 14:40:00 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 83
+[26-May-2013 14:40:20 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 83
+[26-May-2013 15:20:52 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 113
+[26-May-2013 15:20:57 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 113
+[26-May-2013 15:21:11 UTC] PHP Parse error:  syntax error, unexpected $end in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 311
+[26-May-2013 20:03:39 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 122
+[26-May-2013 20:03:43 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 121
+[26-May-2013 20:04:41 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 108
+[26-May-2013 20:04:44 UTC] PHP Fatal error:  Cannot use string offset as an array in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 108
+[27-May-2013 08:41:24 UTC] PHP Fatal error:  Call to undefined function grab_image() in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 229
+[27-May-2013 11:34:58 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 5
+[27-May-2013 11:35:00 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 5
+[27-May-2013 11:35:03 UTC] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or T_DOLLAR_OPEN_CURLY_BRACES or T_CURLY_OPEN in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 104
+[27-May-2013 11:35:07 UTC] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/psozleri/public_html/film/application/controllers/yonetim/filmler.php on line 8
+[29-May-2013 11:36:27 Europe/Istanbul] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/batuhana/public_html/film/application/views/izle.php on line 277
+[29-May-2013 13:38:30 Europe/Istanbul] PHP Parse error:  syntax error, unexpected $end in /home/batuhana/public_html/film/application/views/izle.php on line 8
+[10-Jun-2013 20:31:01 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:02 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:02 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:02 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:03 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:03 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:04 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:04 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:05 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:05 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:05 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:06 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:06 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:06 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:07 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:07 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:08 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:09 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:09 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:10 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:10 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:11 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:11 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:12 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:27 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:32 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:32 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:32 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:32 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:33 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:34 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:35 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:35 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:35 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:35 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:35 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:35 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:35 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:35 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:35 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:36 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:36 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:36 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:36 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:36 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:36 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:36 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:36 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:36 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:37 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:38 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:38 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:38 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:38 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:38 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:38 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:38 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:38 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:39 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:39 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:39 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:39 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:39 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:39 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:39 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:39 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:40 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:51 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:51 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[10-Jun-2013 20:31:51 Europe/Istanbul] PHP Fatal error:  Call to a member function etiketleri() on a non-object in /home/batuhana/public_html/film/application/controllers/anasayfa.php on line 202
+[14-Jul-2013 13:49:07 Europe/Istanbul] PHP Parse error:  syntax error, unexpected $end in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 223
+[14-Jul-2013 13:49:17 Europe/Istanbul] PHP Parse error:  syntax error, unexpected $end in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 223
+[14-Jul-2013 13:49:22 Europe/Istanbul] PHP Parse error:  syntax error, unexpected $end in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 223
+[14-Jul-2013 13:49:27 Europe/Istanbul] PHP Parse error:  syntax error, unexpected $end in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 223
+[14-Jul-2013 13:49:33 Europe/Istanbul] PHP Parse error:  syntax error, unexpected $end in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 224
+[14-Jul-2013 15:42:15 Europe/Istanbul] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 75
+[14-Jul-2013 15:59:16 Europe/Istanbul] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 146
+[14-Jul-2013 15:59:39 Europe/Istanbul] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 74
+[14-Jul-2013 15:59:47 Europe/Istanbul] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 8
+[14-Jul-2013 15:59:55 Europe/Istanbul] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting ')' in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 74
+[14-Jul-2013 16:08:28 Europe/Istanbul] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/batuhana/public_html/film/application/controllers/yonetim/bot.php on line 73
